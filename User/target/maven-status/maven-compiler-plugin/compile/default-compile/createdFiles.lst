@@ -1,0 +1,7 @@
+Servlets\CreateUser.class
+Servlets\ReadUser.class
+sena\user\JakartaRestConfiguration.class
+Servlets\DeleteUser.class
+sena\user\resources\JakartaEE10Resource.class
+UpdateUser.class
+Servlets\User.class
